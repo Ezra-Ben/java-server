@@ -6,13 +6,13 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.5.0</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
 	<groupId>com.javaserver</groupId>
 	<artifactId>javaserver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>javaserver</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Vendor Validation Java Server built on Spring upon Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
